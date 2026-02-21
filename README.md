@@ -16,9 +16,9 @@
 
 ```python
 class VNRNaveen:
-    name       = "VNR Naveen"
+    name       = "Veeramsetty Naveen Kumar"
     role       = ["AI Engineer", "Full Stack Developer"]
-    focus      = ["Machine Learning", "DSA", "Web Development"]
+    focus      = ["AIML", "DSA", "Web Development"]
     goal       = "Building real-world products that solve real problems"
     mindset    = "Consistency > Motivation"
     fun_fact   = "I debug in production 😅"
@@ -120,7 +120,7 @@ class VNRNaveen:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naveen-kumar-veeramsetty-283607320)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-veeramsetty-283607320?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VNRNaveen8055)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
